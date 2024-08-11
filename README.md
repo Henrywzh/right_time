@@ -9,8 +9,10 @@
 - About: Quantitative analysis of Hang Seng Index by calendar month
 4. File: hsi_best_day_to_invest
 - Time: 8th Aug - 10th Aug
-- About: Finding the best day in a year to invest for Hang Seng Index
+- About: Finding the best day in a year to invest in Hang Seng Index
 5. File: hsi_invest_by_bazi
 - Time: 8th Aug - 10th Aug
-- About: Researching the relation between Hang Seng Index and Chinese Astrology(Ba-Zi). Seeking investment opportunities using Ba-Zi
-
+- About: Researching the relationship between the Hang Seng Index and Chinese Astrology(Ba-Zi). Seeking investment opportunities using Ba-Zi
+6. File: hsi_period_analysis
+- Time: 9th Aug - 10th Aug
+- About: Analysing Hang Seng Index Returns by different period
